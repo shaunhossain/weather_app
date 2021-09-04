@@ -11,6 +11,6 @@ I used openweatherapi for data source for this application :
 - [Open Weather map](https://openweathermap.org/)
 
 ## Screenshots
-|<img src="Screenshot_1630762004.png" width=200/>|
+|<img src="Screenshot_1630762004.png" width=200/>
 |:----:|
 
